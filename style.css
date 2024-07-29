@@ -1,0 +1,30 @@
+
+h1{
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    font-size: 30px;
+    
+}
+
+#grid {
+    box-sizing: border-box;
+    padding: none;
+    width: 75vb;
+    height: 75vh;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+
+}
+
+.gridBlock{
+    box-sizing: border-box;
+    border: 0.5px solid grey;
+    background-color: white;
+
+}
